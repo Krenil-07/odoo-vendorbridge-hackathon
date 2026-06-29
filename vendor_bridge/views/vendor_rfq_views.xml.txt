@@ -1,0 +1,63 @@
+vendor.rfq.form
+        vendor.rfq
+        
+            
+                
+                    
+                
+                
+                    
+                        
+                            
+                        
+                    
+                    
+                        
+                            
+                            
+                        
+                        
+                            
+                        
+                    
+
+                    
+                        
+                            
+                                 
+                                    
+                                    
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+                
+                    
+                    
+                    
+                
+            
+        
+    
+
+    
+        vendor.rfq.tree
+        vendor.rfq
+        
+            
+                
+                
+                
+                
+                
+            
+        
+    
+
+    
+        Requests for Quotation
+        vendor.rfq
+        tree,form

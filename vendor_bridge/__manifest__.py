@@ -7,6 +7,7 @@
     'data': [
         'security/ir.model.access.csv',
         'views/vendor_profile_views.xml',
+        'views/vendor_rfq_views.xml',
     ],
     'installable': True,
     'application': True,
