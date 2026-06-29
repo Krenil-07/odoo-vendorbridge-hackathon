@@ -6,6 +6,7 @@
     'depends': ['base', 'mail'],
     'data': [
         'security/ir.model.access.csv',
+        'views/vendor_profile_views.xml',
     ],
     'installable': True,
     'application': True,
