@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_vendor_profile,access.vendor.profile,model_vendor_profile,base.group_user,1,1,1,1
+access_vendor_rfq,access.vendor.rfq,model_vendor_rfq,base.group_user,1,1,1,1
+access_vendor_quotation,access.vendor.quotation,model_vendor_quotation,base.group_user,1,1,1,1
