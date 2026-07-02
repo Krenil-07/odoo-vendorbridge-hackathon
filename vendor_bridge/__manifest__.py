@@ -9,6 +9,9 @@
         'views/vendor_profile_views.xml',
         'views/vendor_rfq_views.xml',
     ],
+    'demo': [
+        'demo/demo_data.xml',
+    ],
     'installable': True,
     'application': True,
 }
